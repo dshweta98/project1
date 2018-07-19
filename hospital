@@ -1,0 +1,526 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="Vanaja Hospital in Hyderabad, VANAJA is a multi-specialty hospital with General and Specialized treatments. Located in the prime location of Sainathpuram near Dr.A.S.Rao Nagar providing 24 hours services for Gynecologist/Obstetrician,General Physician ,Orthopedist, Ear-Nose-Throat (ENT) Specialist,General Surgeon, Pediatrician, Neurosurgeon,Psychiatrist.">
+    <meta itemprop="description" content="Vanaja Hospital in Hyderabad, VANAJA is a multi-specialty hospital with General and Specialized treatments. Located in the prime location of Sainathpuram near Dr.A.S.Rao Nagar providing 24 hours services for Gynecologist/Obstetrician,General Physician ,Orthopedist, Ear-Nose-Throat (ENT) Specialist,General Surgeon, Pediatrician, Neurosurgeon,Psychiatrist.">
+    <meta itemprop="image" content="https://s3-ap-southeast-1.amazonaws.com/content-ewns/images/logoimages/5a59a4848d5dbc4020753795.png">
+
+
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="product">
+    <meta name="twitter:title" content="Vanaja Hospital in Hyderabad, VANAJA is a multi-specialty hospital with General and Specialized treatments. Located in the prime location of Sainathpuram near Dr.A.S.Rao Nagar providing 24 hours services for Gynecologist/Obstetrician,General Physician ,Orthopedist, Ear-Nose-Throat (ENT) Specialist,General Surgeon, Pediatrician, Neurosurgeon,Psychiatrist.">
+    <meta name="twitter:description" content="Vanaja Hospital in Hyderabad, VANAJA is a multi-specialty hospital with General and Specialized treatments. Located in the prime location of Sainathpuram near Dr.A.S.Rao Nagar providing 24 hours services for Gynecologist/Obstetrician,General Physician ,Orthopedist, Ear-Nose-Throat (ENT) Specialist,General Surgeon, Pediatrician, Neurosurgeon,Psychiatrist.">
+    <meta name="twitter:image" content="https://s3-ap-southeast-1.amazonaws.com/content-ewns/images/logoimages/5a59a4848d5dbc4020753795.png">
+
+
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Vanaja Hospital in Hyderabad, VANAJA is a multi-specialty hospital with General and Specialized treatments. Located in the prime location of Sainathpuram near Dr.A.S.Rao Nagar providing 24 hours services for Gynecologist/Obstetrician,General Physician ,Orthopedist, Ear-Nose-Throat (ENT) Specialist,General Surgeon, Pediatrician, Neurosurgeon,Psychiatrist.">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://vanajahospital.emartshop.in/services/1">
+    <meta property="og:image" content="https://s3-ap-southeast-1.amazonaws.com/content-ewns/images/logoimages/5a59a4848d5dbc4020753795.png">
+
+
+    <meta property="og:description" content="Vanaja Hospital in Hyderabad, VANAJA is a multi-specialty hospital with General and Specialized treatments. Located in the prime location of Sainathpuram near Dr.A.S.Rao Nagar providing 24 hours services for Gynecologist/Obstetrician,General Physician ,Orthopedist, Ear-Nose-Throat (ENT) Specialist,General Surgeon, Pediatrician, Neurosurgeon,Psychiatrist.">
+    <meta property="og:site_name" content="Vanaja Hospital">
+    <!--IE Compatibility Meta-->
+    <meta name="author" content="Vanaja Hospital">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="Vanaja Hospital in Hyderabad, VANAJA is a multi-specialty hospital with General and Specialized treatments. Located in the prime location of Sainathpuram near Dr.A.S.Rao Nagar providing 24 hours services for Gynecologist/Obstetrician,General Physician ,Orthopedist, Ear-Nose-Throat (ENT) Specialist,General Surgeon, Pediatrician, Neurosurgeon,Psychiatrist.">
+    <meta name="logo" content="https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fmedia.expedia.com%2Fhotels%2F1000000%2F20000%2F12000%2F11991%2F11991_181_b.jpg&imgrefurl=https%3A%2F%2Ffindhotelsnearanaddress.com%2Fmercy-hospital-me.htm&docid=kk6LBtPIbYSmBM&tbnid=kZR1xurqgGKP2M%3A&vet=10ahUKEwia7_rmu6rcAhUDpo8KHdTZAW0QMwg_KAowCg..i&w=350&h=247&safe=active&bih=710&biw=1536&q=hospitals%20near%20me&ved=0ahUKEwia7_rmu6rcAhUDpo8KHdTZAW0QMwg_KAowCg&iact=mrc&uact=8.png">
+    <meta name="keywords" content="Best Gynecologist in Hyderabad,Best Gynecologist in Secunderabad,Orthopedist Doctors In Hyderabad,Orthopedist Doctors In Secunderabad,Best Pediatrician in Secunderabad,Best Pediatrician in Hyderabad.,from Hyderabad,Plot No 7, Sai Baba Temple Road, Dr A.S. Rao Nagar, Secunderabad Hyderabad India, Vanaja Hospital in Plot No 7, Sai Baba Temple Road, Dr A.S. Rao Nagar, Secunderabad Hyderabad India, Vanaja Hospital in Hyderabad India, Vanaja Hospital in Hyderabad, Vanaja Hospital in Hyderabad , Vanaja Hospital in Plot No 7, Sai Baba Temple Road, Dr A.S. Rao Nagar, Secunderabad,VANAJA is a multi-specialty hospital with General and Specialized treatments. Located in the prime location of Sainathpuram near Dr.A.S.Rao Nagar providing 24 hours services for Gynecologist/Obstetrician,General Physician ,Orthopedist, Ear-Nose-Throat (ENT) Specialist,General Surgeon, Pediatrician, Neurosurgeon,Psychiatrist. ">
+    <link href="https://s3.ap-south-1.amazonaws.com/emartshop/assets/images/logo.png" rel="icon">
+
+
+    <title>Vanaja Hospital, VANAJA is a multi-specialty hospital with General and Specialized treatments. Located in the prime location of Sainathpuram near Dr.A.S.Rao Nagar providing 24 hours services for Gynecologist/Obstetrician,General Physician ,Orthopedist, Ear-Nose-Throat (ENT) Specialist,General Surgeon, Pediatrician, Neurosurgeon,Psychiatrist. Plot No 7, Sai Baba Temple Road, Dr A.S. Rao Nagar, Secunderabad Hyderabad India</title>
+
+
+    <link href="https://s3.ap-south-1.amazonaws.com/themedata/hospital/css/vendors.min.css" type="text/css" rel="stylesheet">
+    <link href="https://s3.ap-south-1.amazonaws.com/themedata/hospital/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+
+
+    <noscript id="deferred-styles">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Volkhov:400,400i" rel="stylesheet">
+
+        <link href="https://s3.ap-south-1.amazonaws.com/themedata/hospital/css/style.min.css" type="text/css" rel="stylesheet" id="style">
+        <link href="https://s3.ap-south-1.amazonaws.com/themedata/hospital/css/components.min.css" type="text/css" rel="stylesheet" id="components">
+        <link href="https://s3.ap-south-1.amazonaws.com/themedata/hospital/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+
+      </noscript>
+
+    <script>
+        var loadDeferredStyles = function() {
+          var addStylesNode = document.getElementById("deferred-styles");
+          var replacement = document.createElement("div");
+          replacement.innerHTML = addStylesNode.textContent;
+          document.body.appendChild(replacement)
+          addStylesNode.parentElement.removeChild(addStylesNode);
+        };
+        var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+            webkitRequestAnimationFrame || msRequestAnimationFrame;
+        if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+        else window.addEventListener('load', loadDeferredStyles);
+      </script>
+
+
+
+<script>(function(i, s, o, g, r, a, m){i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function(){(i[r].q = i[r].q ||[]).push(arguments)},i[r].l = 1 * new Date(); a = s.createElement(o),m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)})(window, document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-102695898-1', 'auto');ga('send', 'pageview');</script></head>
+
+<body itemscope="" itemtype="https://schema.org/LocalBusiness">
+
+    <div class="loader-backdrop">           <!-- Loader -->
+        <div class="loader">
+        </div>
+    </div>
+
+    <header class="header-1">           <!-- Header Style 1 -->
+        <div class="topbar">            <!-- Topbar -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <ul class="social">
+                            <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://vanajahospital.emartshop.in" title="Share on FB"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/intent/tweet?text=Check+out+&url=http://vanajahospital.emartshop.in" title="Share on Twitter"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/shareArticle?url=http://vanajahospital.emartshop.in" title="Share on LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <ul class="contact">
+                            <li><span>Call Us : </span> <a itemprop="telephone" href="tel:9246243661" onclick="ga('send', 'event', 'CONTACTNUMBER', 'CLICK', 'vanajahospital')" style="color:white">9246243661</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <nav class="navbar navbar-default">         <!-- Navigation Bar -->
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navigation" aria-expanded="false">
+                        <span class="sr-only">Toggle Menu</span>
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="http://vanajahospital.emartshop.in" itemprop="url" title="Vanaja Hospital">
+                        <img itemprop="image" src="https://s3-ap-southeast-1.amazonaws.com/content-ewns/images/logoimages/5a59a4848d5dbc4020753795.png" style="width: 100px; height: 50px;" alt="Vanaja Hospital">
+
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="main-navigation">         <!-- Main Menu -->
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="active"><a href="http://vanajahospital.emartshop.in" title="Vanaja Hospital" itemprop="url">Home</a>
+                        </li>
+                        <li><a href="http://vanajahospital.emartshop.in/doctors/1" title="Our Doctors" itemprop="url">Doctors</a>
+                            <ul class="sub-menu">           <!-- Sub Menu -->
+                                <li>
+                                    <a href="http://vanajahospital.emartshop.in" title="">
+
+                                    </a>
+                                </li>
+                                <li><a href="http://vanajahospital.emartshop.in/doctors/1" title="View all" itemprop="url">View All</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="http://vanajahospital.emartshop.in/services/1" title="Our Services" itemprop="url">Services</a>
+                            <ul class="sub-menu">           <!-- Sub Menu -->
+                                <li>
+                                    <a href="http://vanajahospital.emartshop.in/services/orthopedist-doctor-in-secunderabad/3" title="Orthopedist Doctor in Secunderabad">
+                                        Orthopedist Doctor in Secunderabad
+                                    </a>
+                                </li><li>
+                                    <a href="http://vanajahospital.emartshop.in/services/best-pediatrician-clinics-in-secunderabad/2" title="Best pediatrician Clinics in Secunderabad">
+                                        Best pediatrician Clinics in Secunderabad
+                                    </a>
+                                </li><li>
+                                    <a href="http://vanajahospital.emartshop.in/services/obstetricians-and-gynecologists/1" title="Obstetricians and Gynecologists">
+                                        Obstetricians and Gynecologists
+                                    </a>
+                                </li>
+                                <li><a href="http://vanajahospital.emartshop.in/services/1" title="View all" itemprop="url">View All</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="http://vanajahospital.emartshop.in/blog/1" title="Our Blog" itemprop="url">Blog</a>
+                        </li>
+                        <li><a href="http://vanajahospital.emartshop.in/contact" title="Contact us" itemprop="url">Contact</a>
+
+                        </li>
+                        <li>
+                            <span class="emergency">            <!-- Emergency Number -->
+                                <i class="fa fa-mobile"></i>
+                                <span class="number">9246243661</span><br>
+                                <span class="sub-text">Call us</span>
+                            </span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+	</header>
+
+    <div class="jumbotron" style="background-image: url('https://s3-ap-southeast-1.amazonaws.com/content-ewns/images/backgroundimages/5a59ac198d5dbc40207537a4.png')">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+                    <h1 class="heading"></h1>
+                    <a href="http://vanajahospital.emartshop.in/about" itemprop="url" title="About Vanaja Hospital" class="btn btn-primary">Read More</a> &nbsp;&nbsp; <a href="http://vanajahospital.emartshop.in/contact" itemprop="url" title="Contact Vanaja Hospital" class="btn btn-black">Contact Us</a>
+                </div>
+                <div class="col-sm-4">
+                    <div class="slider-box-appointment">
+                        <div class="header">
+                            <h3 class="heading font-2 text-center">Book an Appointment</h3>
+                        </div>
+                        <hr class="hr-2">
+                        <div class="body">
+                            <form onsubmit="businessEnquiry()">
+                                <div class="form-group">
+                                    <input class="form-control" id="name" type="text" placeholder="Your Name">
+                                </div>
+                                <div class="form-group">
+                                    <input class="form-control" id="email" type="text" placeholder="Your Email">
+                                </div>
+                                <div class="form-group">
+                                    <input class="form-control" id="mobile" type="text" placeholder="Your Mobile Number">
+                                </div>
+                                <div class="form-group">
+                                    <textarea id="message" class="form-control" rows="3" placeholder="Include the date and time and some other information"></textarea>
+                                </div>
+                                <button class="btn btn-black btn-block" type="submit">Book Now</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container mt-80">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="heading-block">
+                    <h2 class="heading">Our <span class="color1">Speciality</span> Doctors</h2>
+                   </div>
+            </div>
+            <div class="col-sm-4" itemscope="" itemtype="http://schema.org/Person">
+                <div class="doctor-box-2">
+
+                    <div class="doctor-img">
+                        <img src="https://s3.ap-south-1.amazonaws.com/themedata/hospital/images/doctor-small-1.jpg" class="img-circle" alt="">
+                    </div>
+                    <div class="doctor-name">
+                        <a href="http://vanajahospital.emartshop.in" title=""> <h4 class="heading" itemprop="name">...</h4></a>
+                        <span class="doctor-desig" itemprop="jobTitle"></span>
+                    </div>
+                    <hr class="hr-1">
+                    <div class="doctor-details">
+                        <p itemprop="description">...</p>
+                    </div>
+                    <span style="display:none;" itemprop="worksFor">Vanaja Hospital</span>
+                    <br>
+                    <div class="text-center">
+                        <a href="http://vanajahospital.emartshop.in/contact" itemprop="url" title="Book an appointment with " class="btn btn-primary btn-sm">Booking</a>
+                        <a href="http://vanajahospital.emartshop.in" class="btn btn-black btn-sm">Profile</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid mt-80">
+        <div class="row">
+            <div class="col-sm-12 no-gutter">
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="call-out-1 pt-60 pb-60 mt-80">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="left">
+                        <h3 class="inverse font-2 font24"><strong>Vanaja Hospital</strong></h3>
+                        </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="right">
+                        <i class="fa fa-headphones"></i>
+                        <span class="call-us"><strong class="inverse text-capitalize font20">Call us now!</strong><br>9246243661</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="mt-80 parallax" style="background-image:url('https://s3.ap-south-1.amazonaws.com/themedata/hospital/images/1920-850-dark.jpg')" data-speed="1.5">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-6 col-sm-offset-6 no-gutter">
+                    <div class="quick-appointment-form">
+                        <h3 class="heading thin font-2 inverse font30">Book Appointment</h3>
+                        <p class="text-muted">Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.</p>
+                        <br>
+                        <form onsubmit="businessEnquiry1()">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <input class="form-control" id="fname" type="text" placeholder="Your First Name">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <input class="form-control" id="lname" type="text" placeholder="Your Last Name">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <input class="form-control" id="mobilenumber" type="text" placeholder="Your Phone Number">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <input class="form-control" id="emailid" type="text" placeholder="Your Email ID">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <textarea class="form-control" id="messagedetails" rows="5" placeholder="Message"></textarea>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <button class="btn btn-black" type="submit"><i class="fa fa-paper-plane"></i> Book Appointment</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer-1">           <!-- Footer Style 1 -->
+        <div class="footer-pri pt-20 pb-40">            <!-- Primary Footer -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="widget widget-message">
+                            <p>Donate your eyes before you leave this world so that someone else may enjoy its beauty.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="widget widget-about">
+                            <h4 class="heading">About us</h4>
+                            <p itemprop="description">VANAJA is a multi-specialty hospital with General and Specialized treatments. Located in the prime location of Sainathpuram near Dr.A.S.Rao Nagar providing 24 hours services for Gynecologist/Obstetrician,General Physician ,Orthopedist, Ear-Nose-Throat (ENT) Specialist,General Surgeon, Pediatrician, Neurosurgeon,Psychiatrist.</p>
+                            <hr>
+                            <ul class="contact">
+                                <li><i class="fa fa-phone"></i> 9246243661</li>
+                                <li><i class="fa fa-envelope"></i> vanajahospital117@gmail.com</li>
+                            </ul>
+                            <hr>
+                            <ul class="social social-2x">
+                                <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://vanajahospital.emartshop.in" title="Share on Facebook"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://twitter.com/intent/tweet?text=Check+out+&url=http://vanajahospital.emartshop.in" title="Share on Twitter"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.linkedin.com/shareArticle?url=http://vanajahospital.emartshop.in" title="Share on LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="widget widget-twitter">
+                            <h4 class="heading">Latest Posts</h4>
+                            <p><a href="http://vanajahospital.emartshop.in/blog/gynecology-clinics-in-secunderabad/3" itemprop="url" title="Gynecology Clinics In Secunderabad">Gynecology Clinics In Secunderabad</a> </p><p><a href="http://vanajahospital.emartshop.in/blog/general-surgeon-in-secunderabad/2" itemprop="url" title="General Surgeon In Secunderabad">General Surgeon In Secunderabad</a> </p><p><a href="http://vanajahospital.emartshop.in/blog/ent-doctors-in-secunderabad/1" itemprop="url" title="ENT Doctors In Secunderabad">ENT Doctors In Secunderabad</a> </p>
+                        </div>
+                        <hr>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="widget widget-blog">
+                            <h4 class="heading">Hospital Timings</h4>
+                            <table class="table table-bordered">
+                                <tr>
+                                    <th>Day</th>
+                                    <th>Timing</th>
+                                </tr>
+                                <tr>
+                                    <td>Monday</td>
+                                    <td>0900-1900 hrs</td>
+                                </tr>
+                                <tr>
+                                    <td>Tuesday</td>
+                                    <td>0900-1900 hrs</td>
+                                </tr>
+                                <tr>
+                                    <td>Wednesday</td>
+                                    <td>0900-1900 hrs</td>
+                                </tr>
+                                <tr>
+                                    <td>Thursday</td>
+                                    <td>0900-1900 hrs</td>
+                                </tr>
+                                <tr>
+                                    <td>Friday</td>
+                                    <td>0900-1900 hrs</td>
+                                </tr>
+                                <tr>
+                                    <td>Saturday</td>
+                                    <td>1100-1600 hrs</td>
+                                </tr>
+                                <tr>
+                                    <td>Saturday</td>
+                                    <td>Closed</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-sec">            <!-- Secondary Footer -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <span>&copy; 2018 Powered by. <a href="http://emarthshop.in" target="_blank">EmartShop</a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+	<div id="back"><i class="fa fa-angle-up"></i></div>
+
+
+    <!-- JQuery Version 3.1.0 -->
+    <script src="https://s3.ap-south-1.amazonaws.com/themedata/hospital/js/jquery.min.js" type="text/javascript"></script>
+
+    <!-- Bootstrap Version 3.3.7 -->
+    <script src="https://s3.ap-south-1.amazonaws.com/themedata/hospital/js/bootstrap.min.js" type="text/javascript"></script>
+
+    <!-- Bootstrap Select (Dropdown Styling) -->
+    <script src="https://s3.ap-south-1.amazonaws.com/themedata/hospital/js/bootstrap-select.min.js" type="text/javascript"></script>
+
+    <!-- Owl Carousel 2.0.0 -->
+    <script src="https://s3.ap-south-1.amazonaws.com/themedata/hospital/js/owl.carousel.min.js" type="text/javascript"></script>
+
+    <!-- Appear JS -->
+    <script src="https://s3.ap-south-1.amazonaws.com/themedata/hospital/js/jquery.appear.min.js" type="text/javascript"></script>
+
+    <!-- Count To JS -->
+
+    <!-- Custom JS -->
+    <script src="https://s3.ap-south-1.amazonaws.com/themedata/hospital/js/script.min.js" type="text/javascript"></script>
+
+    <script>
+
+        function businessEnquiry()
+        {
+
+           var name = $("#name").val(); var email = $("#email").val(); var message = $("#message").val();
+           var telephone = $("#mobile").val();
+           if (name == null) {
+               alert("Name cannot be empty, Please try again");
+           }
+           else if (email == null) {
+               alert("Email cannot be empty, Please try again");
+           }
+           else if (telephone == null) {
+               alert("Mobile number cannot be empty, Please try again");
+           }
+           else if (message == null) {
+               alert("Message cannot be empty, Please try again");
+           }
+           else {
+            ga('send', 'event', email + telephone, 'ENQUIRY', 'vanajahospital');
+               var formdata = JSON.stringify({
+                   "name": name,
+                   "from": email   + ":\n"+ telephone,
+                   "message": message,
+                   "username": "vanajahospital"
+               });
+               $.ajax({
+                   url: 'http://emartshop.in/Home/SubmitEnquiry',
+                   dataType: 'json',
+                   data: formdata,
+                   contentType: 'application/json',
+                   type: 'POST',
+                   success: function (response) {
+
+                   },
+                   error: function (response) {
+                       alert("Thanks for contacting us, we will get back to you shortly");
+                   }
+               });
+           }
+        }
+
+
+    </script>
+
+<script>
+
+    function businessEnquiry1()
+    {
+
+       var fname = $("#fname").val(); var email = $("#emailid").val(); var message = $("#messagedetails").val();
+       var telephone = $("#mobilenumber").val(); var lname = $("#lname").val();
+       if (fname == null) {
+           alert("Name cannot be empty, Please try again");
+       }
+       else if (email == null) {
+           alert("Email cannot be empty, Please try again");
+       }
+       else if (telephone == null) {
+           alert("Mobile number cannot be empty, Please try again");
+       }
+       else if (message == null) {
+           alert("Message cannot be empty, Please try again");
+       }
+       else {
+        ga('send', 'event', email + telephone, 'ENQUIRY', 'vanajahospital');
+           var formdata = JSON.stringify({
+               "name": fname + " " + lname,
+               "from": email   + ":\n"+ telephone,
+               "message": message,
+               "username": "vanajahospital"
+           });
+           $.ajax({
+               url: 'http://emartshop.in/Home/SubmitEnquiry',
+               dataType: 'json',
+               data: formdata,
+               contentType: 'application/json',
+               type: 'POST',
+               success: function (response) {
+
+               },
+               error: function (response) {
+                   alert("Thanks for contacting us, we will get back to you shortly");
+               }
+           });
+       }
+    }
+
+
+</script>
+
+</body>
+
+</html>
